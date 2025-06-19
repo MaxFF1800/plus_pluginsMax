@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         useMaterial3: true,
-        colorSchemeSeed: const Color(0x9f4376f8),
+        colorSchemeSeed: const Color(0x9f4476f8),
       ),
       home: const MyHomePage(),
     );
